@@ -1,0 +1,7 @@
+Student Information System
+
+Contact Information
+Email: support@studentinfosystem.example
+Phone: +1-555-010-2026
+Office: Room 204, Main Administration Building
+Office Hours: Monday-Friday, 9:00 AM-5:00 PM
